@@ -5,3 +5,4 @@ pkg
 .rvmrc
 *.sqlite3.db
 *.gem
+.project
